@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kirusanth<br><br>💻 Python Developer<br><br>🐍 Flask | MySQL | HTML | CSS | Bootstrap | Git<br><br>🚀 Building real-world web applications<br><br>🌱 Constantly learning new technologies<br><br>🎯 Aspiring Software Engineer<br><br>✨ "Every commit is a step toward excellence."
+👋 Hi, I'm KIRUSANTH-M<br><br>💻 Python Developer<br><br>🐍 Flask | MySQL | HTML | CSS | Bootstrap | Git<br><br>🚀 Building real-world web applications<br><br>🌱 Constantly learning new technologies<br><br>🎯 Aspiring Software Engineer<br><br>✨ "Every commit is a step toward excellence."
 
 
 ## 🌐 Socials:
